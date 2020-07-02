@@ -1,0 +1,16 @@
+Confusion martix
+23	14	13	
+12	25	13	
+8	14	28	
+
+Accuracy : 50.66666666666667%
+
+Macro average precision : 50.8366784218766%
+Micro averate precision : 50.66666666666667%
+
+Macro average recall : 50.66666666666667%
+Micro averate recall : 50.66666666666667%
+
+Macro average f1-score : 50.61740291931335%
+Micro averate f1-score : 50.66666666666667%
+

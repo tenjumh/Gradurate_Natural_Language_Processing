@@ -1,0 +1,13 @@
+epochs : 50
+dropout : 0.3
+learning_rate : 0.003
+
+Macro average precision : 87.2937%
+Micro averate precision : 92.1301%
+
+Macro average recall : 79.4177%
+Micro averate recall : 92.1301%
+
+Macro average f1-score : 82.7542%
+Micro averate f1-score : 92.1301%
+

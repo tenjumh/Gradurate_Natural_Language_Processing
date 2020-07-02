@@ -1,0 +1,4 @@
+Train_label_list_길이 : 5825
+Train_Data_100번째_인덱스_label : 1
+Test_label_list_길이 : 866
+Test_Data_100번째_인덱스_label : 2
